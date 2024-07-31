@@ -203,3 +203,9 @@ nav ul li a:hover::after {
     background-color: #fffdef;
     transform: translateY(-10px);
 }
+
+/*--------------- portfolio -------------*/
+#portfolio {
+    padding: 50px 0;
+    color: #526144;
+}
